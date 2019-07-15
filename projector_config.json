@@ -1,0 +1,14 @@
+{
+	"embeddings":[
+	{
+		"tensorPath": "demo_data/tensors.tsv",
+		"tensorShape": [11579,128],
+		"metadataPath": "demo_data/metadata.tsv",
+		"tensorName": "VeRi",
+		"sprite": 
+		{
+			"imagePath": "demo_data/sprite.png",
+			"singleImageDim": [28, 28]
+		}
+	}]
+}
